@@ -6,7 +6,7 @@ A video game based on the retro game Space Invaders, built on Python using Pygam
 * Game debug
 
 # Game Previews
-![SC1](https://github.com/EduardoMGuillen/SpaceInvaders/assets/159742202/2fa85b97-9af5-4eae-b631-023027196a96)
+![SC1](https://github.com/EduardoMGuillen/SpaceInvaders/assets/159742202/86350703-ba4f-487a-9e1c-c476b3b9de6f)
+![sc2](https://github.com/EduardoMGuillen/SpaceInvaders/assets/159742202/9d102fb3-fd27-44e0-9a68-5f28d8d5d867)
 
-![S2](https://github.com/EduardoMGuillen/SpaceInvaders/assets/159742202/a225f9bf-70b0-4760-b311-32a40d425831)
 
